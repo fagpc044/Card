@@ -1,0 +1,17 @@
+.card {
+  height: 250px;
+  width: 250px;
+  border-radius: 16px;
+  border: 2px solid black;
+}
+
+.imagem {
+  height: 75px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.spc {
+  text-align: center;
+}
